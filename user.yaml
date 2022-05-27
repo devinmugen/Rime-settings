@@ -1,0 +1,11 @@
+var:
+  last_build_time: 1620783177
+  option:
+    simplification: true
+  previously_selected_schema: double_pinyin
+  schema_access_time:
+    bopomofo_tw: 1603694394
+    double_pinyin: 1648547911
+    easy_en: 1605840506
+    luna_pinyin: 1605951552
+    luna_pinyin_simp: 1605490620

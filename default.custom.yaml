@@ -1,0 +1,8 @@
+# default.custom.yaml
+# 使用九个候选词，而非默认的五个候选词
+patch:
+  menu/page_size: 9
+  schema_list:
+    - schema: double_pinyin
+    - schema: luna_pinyin
+    - schema: easy_en
